@@ -1,0 +1,3 @@
+[submodule "nested/submodule-test-1"]
+	path = nested/submodule-test-1
+	url = git@github.com:marc-groundctl/submodule-test-1.git
